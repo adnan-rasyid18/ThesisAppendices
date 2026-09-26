@@ -1,6 +1,6 @@
 """
 A.7 Execution-time measurements at the FIPS 204 parameter sets, and
-A.8 Growth of the execution time with the ring parameter
+A.8 Growth of the execution time with the ring dimension
 =====================================================================
 This script produces the measurements of Table 4.4 and Table 4.5.
 
@@ -20,7 +20,7 @@ larger figure for the transform-based formulation comes from the
 recursion in `ntt_cyclic`, which builds new lists at each level, and
 not from the method itself.
 
-A.8 varies the ring parameter while the matrix dimensions are held at
+A.8 varies the ring dimension while the matrix dimensions are held at
 k = l = 4, which are those of ML-DSA-44, so that the point n = 256
 measures the same operation as the first row of Table 4.4. The
 modulus is kept at q = 8 380 417 throughout, which is possible because
