@@ -62,4 +62,4 @@ hardware.
 ## Provenance
 
 Original notebook: `https://bit.ly/AdnanThesisAppendices`. This repository is the code from that notebook,
-reorganized into importable modules.
+reorganized into importable modules. Furthermore, this repository is linked in zenodo [![DOI](https://zenodo.org/badge/1388539998.svg)](https://doi.org/10.5281/zenodo.22972386)
