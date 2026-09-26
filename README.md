@@ -59,24 +59,7 @@ the correctness checks and the reported numbers should reproduce
 run-to-run on the same machine; absolute timings will differ across
 hardware.
 
-## Notes on this version vs. the thesis appendix
-
-This split-file version behaves identically to the appendix printed in
-the thesis, with two small differences:
-
-- The f-string in the original `benchmark.py`-equivalent print statement
-  (thesis p. 122) is reflowed here as adjacent string literals — the
-  original line-wrap in the PDF is not valid Python if copied verbatim.
-- `measure_environment.py` uses English identifiers and messages; the
-  logic is unchanged from the thesis listing.
-
-Everything else — every function, constant, and printed value — matches
-the thesis appendix exactly.
-
 ## Provenance
 
-Original notebook: `https://bit.ly/AdnanThesisAppendices` (see thesis,
-Appendix A, p. 103). This repository is the code from that notebook,
-reorganized into importable modules; consider tagging a release (and,
-optionally, connecting the repo to Zenodo for a permanent DOI) so the
-thesis can cite a fixed snapshot instead of the notebook link.
+Original notebook: `https://bit.ly/AdnanThesisAppendices`. This repository is the code from that notebook,
+reorganized into importable modules.
