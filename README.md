@@ -67,7 +67,5 @@ modules. It is archived on Zenodo with the permanent identifier
 [10.5281/zenodo.22972386](https://doi.org/10.5281/zenodo.22972386):
 
 [
-
 ![DOI](https://zenodo.org/badge/1388539998.svg)
-
 ](https://doi.org/10.5281/zenodo.22972386)
