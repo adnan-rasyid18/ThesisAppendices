@@ -61,5 +61,13 @@ hardware.
 
 ## Provenance
 
-Original notebook: `https://bit.ly/AdnanThesisAppendices`. This repository is the code from that notebook,
-reorganized into importable modules. Furthermore, this repository is linked in zenodo [![DOI](https://zenodo.org/badge/1388539998.svg)](https://doi.org/10.5281/zenodo.22972386)
+This repository reorganizes the code originally developed as a single notebook
+in Google Colab (`https://bit.ly/AdnanThesisAppendices`) into importable
+modules. It is archived on Zenodo with the permanent identifier
+[10.5281/zenodo.22972386](https://doi.org/10.5281/zenodo.22972386):
+
+[
+
+![DOI](https://zenodo.org/badge/1388539998.svg)
+
+](https://doi.org/10.5281/zenodo.22972386)
